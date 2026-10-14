@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @CephendariusMaxatori you can call me Wit
-- 👀 I’m interested in IT
-- I know Python, Kotlin, and Rust
+- 👋 Hi, I’m @ngbcoder
+- 👀 I’m interested in IT and Software Development
+- I know Python, Kotlin, GoLang, and FLutter
 - - 📫 How to reach me Ngbcoder@gmail.com
-- I Like playing older games like portal
-
